@@ -1,3 +1,7 @@
 aaaaaaaaaaaa
+<<<<<<< HEAD
 5555555555
 
+=======
+mmmmmmmmmmm
+>>>>>>> feature
